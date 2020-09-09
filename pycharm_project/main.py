@@ -1,16 +1,11 @@
-# This is a sample Python script.
-
-# Press Umschalt+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Strg+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#
+from __future__ import print_function
+import psutil
+print(psutil.cpu_percent())
+print(psutil.virtual_memory())
+print('memory % used:', psutil.virtual_memory()[2])
+print(psutil.cpu_count())
+print(psutil.cpu_freq())
+print(psutil.cpu_stats())
+print(psutil.disk_usage('C:/'))
+print(psutil.disk_usage('E:/'))
