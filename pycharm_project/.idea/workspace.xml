@@ -18,6 +18,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -28,9 +29,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\adria\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
@@ -55,25 +56,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="988" height="272" key="GridCell.Tab.0.bottom" timestamp="1599658904190">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="734" y="360" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600024225540">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="734" y="360" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1600024225540" />
+    <state width="2539" height="404" key="GridCell.Tab.0.bottom" timestamp="1600025354844">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="988" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050/-1680.26.1680.1020@0.0.1920.1050" timestamp="1599658904190" />
-    <state width="988" height="272" key="GridCell.Tab.0.center" timestamp="1599658904190">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="2539" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1600025354844" />
+    <state width="2539" height="404" key="GridCell.Tab.0.center" timestamp="1600025354844">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="988" height="272" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050/-1680.26.1680.1020@0.0.1920.1050" timestamp="1599658904190" />
-    <state width="988" height="272" key="GridCell.Tab.0.left" timestamp="1599658904190">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="2539" height="404" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1600025354844" />
+    <state width="2539" height="404" key="GridCell.Tab.0.left" timestamp="1600025354844">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="988" height="272" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050/-1680.26.1680.1020@0.0.1920.1050" timestamp="1599658904190" />
-    <state width="988" height="272" key="GridCell.Tab.0.right" timestamp="1599658904190">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="2539" height="404" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1600025354844" />
+    <state width="2539" height="404" key="GridCell.Tab.0.right" timestamp="1600025354844">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="988" height="272" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050/-1680.26.1680.1020@0.0.1920.1050" timestamp="1599658904190" />
-    <state x="827" y="198" key="SettingsEditor" timestamp="1599658094769">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="2539" height="404" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1600025354844" />
+    <state x="1103" y="266" key="SettingsEditor" timestamp="1600024316464">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="827" y="198" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050/-1680.26.1680.1020@0.0.1920.1050" timestamp="1599658094769" />
+    <state x="1103" y="266" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1600024316464" />
   </component>
 </project>
